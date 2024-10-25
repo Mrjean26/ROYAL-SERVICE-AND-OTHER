@@ -1,0 +1,21 @@
+/* Style global pour le corps */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style pour les titres */
+h1 {
+    color: #0056b3;
+    text-align: center;
+}
+
+/* Style pour les paragraphes */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 20px;
+}
